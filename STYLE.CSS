@@ -11,8 +11,7 @@ font-family: 'Roboto', sans-serif;
 
 
 .bannerBgImage{
-    height: 100vh;
-    background-image:url(bg\ image.jpg);
+    height: 2000vh;
     background-size: cover;
     position: relative;
 }
