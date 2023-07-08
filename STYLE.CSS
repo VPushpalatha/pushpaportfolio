@@ -13,6 +13,7 @@ font-family: 'Roboto', sans-serif;
 .bannerBgImage{
     height: 2000vh;
     background-size: cover;
+    background-image:url("../bg\ image.jpg");
     position: relative;
     padding:0;
     width:flex;
