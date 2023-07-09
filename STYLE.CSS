@@ -19,14 +19,14 @@ font-family: 'Roboto', sans-serif;
 .bannerText{
     text-align: right;
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 100%;
+    left: 100%;
     transform: translate(-50%, -50%);
     color: red;
 }
 .bannerText{
 
-    font-size: 4rem;
+    font-size: 7rem;
 }
 .bannerDesc{
     font-size: 2rem;
